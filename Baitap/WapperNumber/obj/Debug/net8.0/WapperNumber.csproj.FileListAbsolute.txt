@@ -1,0 +1,14 @@
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\bin\Debug\net8.0\WapperNumber.exe
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\bin\Debug\net8.0\WapperNumber.deps.json
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\bin\Debug\net8.0\WapperNumber.runtimeconfig.json
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\bin\Debug\net8.0\WapperNumber.dll
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\bin\Debug\net8.0\WapperNumber.pdb
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\obj\Debug\net8.0\WapperNumber.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\obj\Debug\net8.0\WapperNumber.AssemblyInfoInputs.cache
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\obj\Debug\net8.0\WapperNumber.AssemblyInfo.cs
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\obj\Debug\net8.0\WapperNumber.csproj.CoreCompileInputs.cache
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\obj\Debug\net8.0\WapperNumber.dll
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\obj\Debug\net8.0\refint\WapperNumber.dll
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\obj\Debug\net8.0\WapperNumber.pdb
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\obj\Debug\net8.0\WapperNumber.genruntimeconfig.cache
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Baitap\WapperNumber\obj\Debug\net8.0\ref\WapperNumber.dll

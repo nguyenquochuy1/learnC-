@@ -1,0 +1,14 @@
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\bin\Debug\net8.0\Hello.exe
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\bin\Debug\net8.0\Hello.deps.json
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\bin\Debug\net8.0\Hello.runtimeconfig.json
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\bin\Debug\net8.0\Hello.dll
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\bin\Debug\net8.0\Hello.pdb
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\obj\Debug\net8.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\obj\Debug\net8.0\Hello.AssemblyInfoInputs.cache
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\obj\Debug\net8.0\Hello.AssemblyInfo.cs
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\obj\Debug\net8.0\Hello.csproj.CoreCompileInputs.cache
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\obj\Debug\net8.0\Hello.dll
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\obj\Debug\net8.0\refint\Hello.dll
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\obj\Debug\net8.0\Hello.pdb
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\obj\Debug\net8.0\Hello.genruntimeconfig.cache
+c:\Users\nquoc\OneDrive\Desktop\LearnC#\Hello\obj\Debug\net8.0\ref\Hello.dll

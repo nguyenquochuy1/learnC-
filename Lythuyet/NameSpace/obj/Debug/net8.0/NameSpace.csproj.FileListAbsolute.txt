@@ -1,0 +1,14 @@
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\bin\Debug\net8.0\NameSpace.exe
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\bin\Debug\net8.0\NameSpace.deps.json
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\bin\Debug\net8.0\NameSpace.runtimeconfig.json
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\bin\Debug\net8.0\NameSpace.dll
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\bin\Debug\net8.0\NameSpace.pdb
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\obj\Debug\net8.0\NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\obj\Debug\net8.0\NameSpace.AssemblyInfoInputs.cache
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\obj\Debug\net8.0\NameSpace.AssemblyInfo.cs
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\obj\Debug\net8.0\NameSpace.csproj.CoreCompileInputs.cache
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\obj\Debug\net8.0\NameSpace.dll
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\obj\Debug\net8.0\refint\NameSpace.dll
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\obj\Debug\net8.0\NameSpace.pdb
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\obj\Debug\net8.0\NameSpace.genruntimeconfig.cache
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\NameSpace\obj\Debug\net8.0\ref\NameSpace.dll

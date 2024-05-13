@@ -1,0 +1,14 @@
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\bin\Debug\net8.0\KieuDuLieu.exe
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\bin\Debug\net8.0\KieuDuLieu.deps.json
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\bin\Debug\net8.0\KieuDuLieu.runtimeconfig.json
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\bin\Debug\net8.0\KieuDuLieu.dll
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\bin\Debug\net8.0\KieuDuLieu.pdb
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\obj\Debug\net8.0\KieuDuLieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\obj\Debug\net8.0\KieuDuLieu.AssemblyInfoInputs.cache
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\obj\Debug\net8.0\KieuDuLieu.AssemblyInfo.cs
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\obj\Debug\net8.0\KieuDuLieu.csproj.CoreCompileInputs.cache
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\obj\Debug\net8.0\KieuDuLieu.dll
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\obj\Debug\net8.0\refint\KieuDuLieu.dll
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\obj\Debug\net8.0\KieuDuLieu.pdb
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\obj\Debug\net8.0\KieuDuLieu.genruntimeconfig.cache
+C:\Users\nquoc\OneDrive\Desktop\LearnC#\Lythuyet\KieuDuLieu\obj\Debug\net8.0\ref\KieuDuLieu.dll
