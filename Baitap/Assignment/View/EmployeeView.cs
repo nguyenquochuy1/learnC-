@@ -12,9 +12,6 @@ public class EmployeeView
     {
         Employee employee = new();
 
-        Console.Write("Enter Employee ID: ");
-        employee.Id = Console.ReadLine() ?? throw new Exception("Enter Employess ID Please");
-
         Console.Write("Enter Employee Name: ");
         employee.Name = Console.ReadLine() ?? throw new Exception("Enter Employess Name Please");
 
