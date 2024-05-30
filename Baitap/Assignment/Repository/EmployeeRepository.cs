@@ -12,7 +12,7 @@ public class EmployeeRepository
     public void Add(Employee employee)
     {   
         string id = AutoGenUUID();
-        employee.Uuid = id;
+        employee.UUID = id;
         employee.Id = id.GetHashCode().ToString()[^4..];
         employees.Add(employee);
     }

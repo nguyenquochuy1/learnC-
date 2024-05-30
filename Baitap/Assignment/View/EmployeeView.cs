@@ -4,7 +4,7 @@ public class EmployeeView
     {
         foreach (var employee in employees)
         {
-            Console.WriteLine($"ID: {employee.Id}, Name: {employee.Name}, Position: {employee.Position}, Salary: {employee.Salary}");
+            Console.WriteLine($"UUID: {employee.UUID},ID: {employee.Id}, Name: {employee.Name}, Position: {employee.Position}, Salary: {employee.Salary}");
         }
     }
 
